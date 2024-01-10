@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <img align="left" width="140" height="140" src="https://github.com/SCiarella/SCiarella/assets/58949181/ef0a538c-e68a-4983-ac09-53d94e31a328" >
-&nbsp; 👋 Hello there! I'm a passionate research software engineer with a strong background in physics, holding a PhD in the field. My expertise lies at the intersection of physics and machine learning technology, where I specialize in developing machine learning algorithms to tackle complex systems and intricate problems. Currently based at the Netherlands eScience Center, I am dedicated to advancing scientific research through the application of robust software engineering principles and innovative solutions. Join me on this exciting journey as we explore the limitless possibilities that emerge when physics meets machine learning! 
+&nbsp; 👋 Hello there! I'm a passionate research software engineer with a strong background in physics, holding a PhD in the field. My expertise lies at the intersection of physics and machine learning technology, where I specialize in developing machine learning algorithms to tackle complex systems and intricate problems. Currently based at the [Netherlands eScience Center](https://www.esciencecenter.nl/), I am dedicated to advancing scientific research through the application of robust software engineering principles and innovative solutions. Join me on this exciting journey as we explore the limitless possibilities that emerge when physics meets machine learning! 
 🚀🚀🚀 #Research #MachineLearning #Physics #SoftwareEngineering
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-ciarella-phd-485790170/)
