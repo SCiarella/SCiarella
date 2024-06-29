@@ -1,12 +1,30 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:ff9518,100:0d42cc&text=About%20me&strokeWidth=2&stroke=ffffffff&fontColor=000000000000000&fontSize=71)
 
-<img align="left" width="140" height="140" src="https://github.com/SCiarella/SCiarella/assets/58949181/ef0a538c-e68a-4983-ac09-53d94e31a328" >
-&nbsp; 👋 Hello there! I'm a passionate research software engineer with a strong background in physics, holding a PhD in the field. My expertise lies at the intersection of physics and machine learning technology, where I specialize in developing machine learning algorithms to tackle complex systems and intricate problems. Currently based at the Netherlands eScience Center, I am dedicated to advancing scientific research through the application of robust software engineering principles and innovative solutions. Join me on this exciting journey as we explore the limitless possibilities that emerge when physics meets machine learning! 
-🚀🚀🚀 #Research #MachineLearning #Physics #SoftwareEngineering
+<div style="display: flex; align-items: stretch;">
+  <img align="left" width="140" height="auto" src="https://github.com/SCiarella/SCiarella/assets/58949181/ef0a538c-e68a-4983-ac09-53d94e31a328" style="flex-shrink: 0; margin-right: 20px;">
+  <div>
+    👋 Hello there! I'm a passionate research software engineer with a strong background in physics, holding a PhD in the field. My expertise lies at the intersection of physics and machine learning technology, where I specialize in developing machine learning algorithms to tackle complex systems and intricate problems. Currently based at the Netherlands eScience Center, I am dedicated to advancing scientific research through the application of robust software engineering principles and innovative solutions. Join me on this exciting journey as we explore the limitless possibilities that emerge when physics meets machine learning! 🚀🚀🚀
+  </div>
+</div>
+<br>
 
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-ciarella-phd-485790170/)
+### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-ciarella-phd-485790170/)
 # 💻 Tech Stack:
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" style="height: 2.5vw;"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="height: 2.5vw;"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="height: 2.5vw;"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="height: 2.5vw;"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" style="height: 2.5vw;"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="height: 2.5vw;"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="height: 2.5vw;"/>
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" style="height: 2.5vw;"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" style="height: 2.5vw;"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="height: 2.5vw;"/>
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" style="height: 2.5vw;"/>
+</div>
+
+
 # 🏆 GitHub Stats:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SCiarella/SCiarella/snake/github-contribution-grid-snake-dark.svg" />
