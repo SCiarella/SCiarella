@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: stretch;">
   <img align="left" width="140" height="auto" src="https://github.com/SCiarella/SCiarella/assets/58949181/ef0a538c-e68a-4983-ac09-53d94e31a328" style="flex-shrink: 0; margin-right: 20px;">
   <div>
-    👋 Hello there! I'm a passionate research software engineer with a strong background in physics, holding a PhD in the field. My expertise lies at the intersection of physics and machine learning technology, where I specialize in developing machine learning algorithms to tackle complex systems and intricate problems. Currently based at the Netherlands eScience Center, I am dedicated to advancing scientific research through the application of robust software engineering principles and innovative solutions. Join me on this exciting journey as we explore the limitless possibilities that emerge when physics meets machine learning! 🚀🚀🚀
+    👋 Hello there! I'm a passionate Research Software Engineer with a strong background in physics, holding a PhD in the field. My expertise lies at the intersection of physics and machine learning technology, where I specialize in developing machine learning algorithms to tackle complex systems and intricate problems. I am based at the Netherlands eScience Center, where I am dedicated to advancing scientific research through the application of robust software engineering principles and innovative AI solutions. Join me on this exciting journey as we explore the limitless possibilities that emerge when physics meets machine learning! 🚀🚀🚀
   </div>
 </div>
 <br>
@@ -11,17 +11,20 @@
 ### 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simone-ciarella-phd-485790170/)
 # 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" style="height: 2.5vw;"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="height: 2.5vw;"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" style="height: 2.5vw;"/>
+  <img src="https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" style="height: 2.5vw;"/>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="height: 2.5vw;"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="height: 2.5vw;"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" style="height: 2.5vw;"/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" style="height: 2.5vw;"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="height: 2.5vw;"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="height: 2.5vw;"/>
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" style="height: 2.5vw;"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" style="height: 2.5vw;"/>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="height: 2.5vw;"/>
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy" style="height: 2.5vw;"/>
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" style="height: 2.5vw;"/> 
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="height: 2.5vw;"/>
 </div>
 
 
